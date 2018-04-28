@@ -1,0 +1,22 @@
+
+.basket {
+    float: right;
+}
+
+.products td {
+  padding: 10px 20px;
+}
+
+.checkout-btn {
+  float: right;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: blue;
+  color: white;
+}
+
+button.purple {
+  background-color: purple;
+}
